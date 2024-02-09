@@ -7,6 +7,8 @@
 		<RootNamespace>TestClient</RootNamespace>
 		<LangVersion>8</LangVersion>
 		<UseWindowsForms>true</UseWindowsForms>
+		<PublishSingleFile>true</PublishSingleFile>
+		<SelfContained>true</SelfContained>
 	</PropertyGroup>
 
 	<ItemGroup>
