@@ -353,3 +353,4 @@ MigrationBackup/
 .ionide/
 
 .idea/
+/obs-websocket-dotnet/obs-websocket-dotnet.xml
